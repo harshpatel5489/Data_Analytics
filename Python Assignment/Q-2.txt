@@ -1,0 +1,16 @@
+2) What is programing? 
+
+What is Programming? (Programming Kya Hai?)
+Programming (ya Computer Programming) ek aisi prakriya hai, jismein hum computer ko ek nishchit 
+kaam karne ke liye nirdesh dete hain. Isse hum computer ko samjhane aur usse kaam karne ke liye
+code likhne ke roop mein samajh sakte hain.
+
+Examples of Programming Uses:
+
+Web Development: Creating websites and web applications.
+
+Software Development: Designing and building desktop applications.
+
+Data Analysis: Analyzing data using tools and programming languages like Python.
+
+Artificial Intelligence: Developing systems that can learn and make decisions.

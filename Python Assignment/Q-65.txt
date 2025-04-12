@@ -1,0 +1,27 @@
+65) How Many Basic Types of Functions Are Available in Python? 
+
+there 2 types of function:
+        1) built in function:
+        2) user defined function:
+
+1) buit in function :
+buit in function yani jo function python mai pahle se hi he aur use directly use kar shkate hain.
+
+example :
+print()
+len()
+type()
+max(), min()
+sum()
+sorted()
+
+2) user defined function :
+
+ye function woh hota he jo hum khud define karte hain apni requirement k according.
+
+user defined function k 4 types hain.
+
+1) function without return and without return type
+2) function with return and without return type
+3) function without return and with return type
+4) function with return and with return type

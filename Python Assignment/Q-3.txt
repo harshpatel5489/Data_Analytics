@@ -1,0 +1,19 @@
+3) What is Python? 
+
+python is high level, interpreted,object-oriented programming launguage. 
+
+it was created by Guido van Rossum and relesed in 1991.
+
+python ka use various field me hota he like a web-development,application-development,datascience,machine learning,artificial intelligent.
+
+
+Key Features of Python:
+
+
+Easy to Learn & Readable – Uses simple English-like syntax.
+Interpreted Language – Executes code line by line, no need for compilation.
+Dynamically Typed – No need to declare variable types explicitly.
+Cross-Platform – Runs on Windows, Mac, Linux, and more.
+Large Standard Library – Built-in modules for file handling, networking, databases, etc.
+Community Support – One of the largest developer communities.
+

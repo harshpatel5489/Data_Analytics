@@ -1,0 +1,18 @@
+1) What are the types of Applications python ?  
+
+Python is a versatile programming language that is used in a wide variety of applications.  
+
+1. Web Development
+Frameworks: Django, Flask, Pyramid
+
+2. Data Science and Machine Learning
+Libraries: NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, PyTorch
+
+3. Automation and Scripting
+Libraries: Selenium, BeautifulSoup, Requests, OpenCV
+
+4. Game Development
+Libraries: Pygame
+
+5. Desktop Applications
+Libraries: Tkinter, PyQt, Kivy
